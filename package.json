@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-nb",
+  "version": "1.0.0",
+  "description": "![Screenshot 2023-02-10 002547](https://user-images.githubusercontent.com/67551591/217906060-c140ae4e-b307-4b00-852b-dc786b5f80e6.png)",
+  "main": "app.js",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaimBiswas/portfolio-nb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaimBiswas/portfolio-nb/issues"
+  },
+  "homepage": "https://github.com/NaimBiswas/portfolio-nb#readme"
+}
